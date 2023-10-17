@@ -24,3 +24,4 @@ input.addEventListener('input', function() {
         paragraphs.innerText = 0;
     }
 })
+
